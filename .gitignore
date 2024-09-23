@@ -1,0 +1,5 @@
+# Ignore all environment files
+env
+
+# Ignore dev variables used while programming 
+.env
